@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+	<name>Reggie! Dumper</name>
+	<coder>Aaron, megazig</coder>
+	<version>v1.1</version>
+	<release_date>20121020240000</release_date>
+	<short_description>Dumps files required for Reggie!</short_description>
+	<long_description>This app will dump the files from New Super Mario Bros. Wii which are required in order to use the Reggie! Level Editor. Can now dump whole fst and main.dol too</long_description>
+</app>
